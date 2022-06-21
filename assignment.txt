@@ -1,0 +1,21 @@
+ASSIGNMENT-1
+
+	1.FLAMES -GAME
+		input-two names
+		two entry buttons
+		delete common letters
+		count total letters
+		count//size(list)
+		remainder
+	2.login page
+	
+
+	3.weight conversion system
+			___kgs
+				output: gms
+					pounds
+					ounces
+
+	4.
+
+		

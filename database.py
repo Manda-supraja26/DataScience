@@ -1,0 +1,88 @@
+import pandas as pd
+stud1={
+    "rollno":1290,
+    "name":"supraja",
+    "ssc_marks":9.7,
+    "inter_marks":965,
+    "sgpa":2.3,
+    "program":"python"
+}
+stud2={
+"rollno":1290,
+    "name":"supraja",
+    "ssc_marks":9.7,
+    "inter_marks":965,
+    "sgpa":2.3,
+    "program":"python"
+}
+stud3={
+"rollno":1290,
+    "name":"supraja",
+    "ssc_marks":9.7,
+    "inter_marks":965,
+    "sgpa":2.3,
+    "program":"python"
+}
+
+stud4={
+"rollno":1290,
+    "name":"supraja",
+    "ssc_marks":9.7,
+    "inter_marks":965,
+    "sgpa":2.3,
+    "program":"python"
+}
+stud5={
+"rollno":1290,
+    "name":"supraja",
+    "ssc_marks":9.7,
+    "inter_marks":965,
+    "sgpa":2.3,
+    "program":"python"
+}
+stud6={
+"rollno":1290,
+    "name":"supraja",
+    "ssc_marks":9.7,
+    "inter_marks":965,
+    "sgpa":2.3,
+    "program":"python"
+}
+stud7={
+"rollno":1290,
+    "name":"supraja",
+    "ssc_marks":9.7,
+    "inter_marks":965,
+    "sgpa":2.3,
+    "program":"python"
+}
+stud8={
+"rollno":1290,
+    "name":"supraja",
+    "ssc_marks":9.7,
+    "inter_marks":965,
+    "sgpa":2.3,
+    "program":"python"
+}
+stud9={
+"rollno":1290,
+    "name":"supraja",
+    "ssc_marks":9.7,
+    "inter_marks":965,
+    "sgpa":2.3,
+    "program":"python"
+}
+stud10={
+"rollno":1290,
+    "name":"supraja",
+    "ssc_marks":9.7,
+    "inter_marks":965,
+    "sgpa":2.3,
+    "program":"python"
+}
+
+database={
+    "class":[stud1,stud2,stud3,stud4,stud5,stud6,stud7,stud8,stud9,stud10]
+}
+df=pd.DataFrame(database)
+print(df)
